@@ -8,7 +8,7 @@ Data Science (Johns Hopkins University) Specialization Course Series Notes
 - DS03-GCD_0407：Getting and Cleaning Data | Leader：Lynn[何巧玲]
 - DS04-EDA_0505：Exploratory Data Analysis | Leader：Jay[张杰]
 - DS05-RR_0505： Reproducible Research     | Leader：John[谢强]
-- LC01_DS： Methodology | Leader：Blan[王兴华]
+- LC01_DS： Methodology | Leader：Young[杨孝荣]
 - Documents Reviewer：Allan[揭展明]
 - Jekyll Publisher：Yuan[何源]
 
