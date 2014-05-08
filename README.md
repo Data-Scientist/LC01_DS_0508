@@ -17,6 +17,7 @@ Data Science (Johns Hopkins University) Specialization Course Series Notes
 
 ## 附件： 数据科学系列课程列表
 ### LC01_DS_0508 Course List:
+
 [Data Science (Johns Hopkins University)](https://www.coursera.org/specialization/jhudatascience/1/overview)
 
 - DS01-DST_0407： [The Data Scientist’s Toolbox](https://www.coursera.org/course/datascitoolbox) (2014-04-07, Jeff Leek)
@@ -28,3 +29,5 @@ Data Science (Johns Hopkins University) Specialization Course Series Notes
 - DS07-RM_0602： [Regression Models](https://www.coursera.org/course/regmods) (2014-06-02, Brian Caffo)
 - DS08-PML_0602：[Practical Machine Learning](https://www.coursera.org/course/predmachlearn) (2014-06-02， Jeff Leek)
 - DS09-DDP_0602： [Developing Data Products](Https://www.coursera.org/course/devdataprod) (2014-06-02, Brian Caffo)
+
+
