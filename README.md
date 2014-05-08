@@ -5,14 +5,14 @@ Data Science (Johns Hopkins University) Specialization Course Series Notes
 
 作为第一轮学习，这里我们先挑选相关课程做相应的笔记及扩展整理；后续新加入的学习者，可以逐步补充其他部分。
 
-* DS03-GCD_0407：Getting and Cleaning Data | Leader：Lynn[何巧玲]
-* DS04-EDA_0505：Exploratory Data Analysis | Leader：Jay[张杰]
-* DS05-RR_0505： Reproducible Research     | Leader：John[谢强]
+- DS03-GCD_0407：Getting and Cleaning Data | Leader：Lynn[何巧玲]
+- DS04-EDA_0505：Exploratory Data Analysis | Leader：Jay[张杰]
+- DS05-RR_0505： Reproducible Research     | Leader：John[谢强]
+- LC01_DS： Methodology | Leader：Blan[王兴华]
+- Documents Reviewer：Allan[揭展明]
+- Jekyll Publisher：Yuan[何源]
 
-* 文档reviewer：Allan[揭展明]
-* 页面reviewer：Yuan[何源]
-
-输出目标分两部分：1. LC01仓库内md文件，Allan review；2. DS仓库内methodology文件，Yuan review。
+输出目标分两部分：1. LC01仓库内md文件；2. DS仓库内methodology文件。
 整理过程中，如有轻重取舍，邮件、QQ群交流及归总周会讨论。
 
 ## 附件： 数据科学系列课程列表
