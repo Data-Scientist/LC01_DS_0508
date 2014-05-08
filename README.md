@@ -17,59 +17,14 @@ Data Science (Johns Hopkins University) Specialization Course Series Notes
 
 ## 附件： 数据科学系列课程列表
 ### LC01_DS_0508 Course List:
-Data Science (Johns Hopkins University)
-https://www.coursera.org/specialization/jhudatascience/1/overview
+[Data Science (Johns Hopkins University)](https://www.coursera.org/specialization/jhudatascience/1/overview)
 
------------- DS01-DST_0407 ------------
-The Data Scientist’s Toolbox
-2014-04-07
-Jeff Leek
-https://www.coursera.org/course/datascitoolbox
-
------------- DS02-RP_0407 ------------
-R Programming
-2014-04-07
-Roger D. Peng
-https://www.coursera.org/course/rprog
-
------------- DS03-GCD_0407 ------------
-Getting and Cleaning Data
-2014-04-07
-Jeff Leek
-https://www.coursera.org/course/getdata
-
------------- DS04-EDA_0505 ------------
-Exploratory Data Analysis
-2014-05-05
-Roger D. Peng
-https://www.coursera.org/course/exdata
-
------------- DS05-RR_0505 ------------
-Reproducible Research
-2014-05-05
-Roger D. Peng
-https://www.coursera.org/course/repdata
-
------------- DS06-SI_0505 ------------
-Statistical Inference
-2014-05-05
-Brian Caffo
-https://www.coursera.org/course/statinference
-
------------- DS07-RM_0602 ------------
-Regression Models
-2014-06-02
-Brian Caffo
-https://www.coursera.org/course/regmods
-
------------- DS08-PML_0602 ------------
-Practical Machine Learning
-2014-06-02
-Jeff Leek
-https://www.coursera.org/course/predmachlearn
-
------------- DS09-DDP_0602 ------------
-Developing Data Products
-2014-06-02
-Brian Caffo
-https://www.coursera.org/course/devdataprod
+- DS01-DST_0407： [The Data Scientist’s Toolbox](https://www.coursera.org/course/datascitoolbox) (2014-04-07, Jeff Leek)
+- DS02-RP_0407： [R Programming](https://www.coursera.org/course/rprog) (2014-04-07, Roger D. Peng)
+- DS03-GCD_0407： [Getting and Cleaning Data](https://www.coursera.org/course/getdata) (2014-04-07, Jeff Leek)
+- DS04-EDA_0505： [Exploratory Data Analysis](https://www.coursera.org/course/exdata) (2014-05-05, Roger D. Peng)
+- DS05-RR_0505： [Reproducible Research](https://www.coursera.org/course/repdata) (2014-05-05, Roger D. Peng)
+- DS06-SI_0505： [Statistical Inference](https://www.coursera.org/course/statinference) (2014-05-05, Brian Caffo)
+- DS07-RM_0602： [Regression Models](https://www.coursera.org/course/regmods) (2014-06-02, Brian Caffo)
+- DS08-PML_0602：[Practical Machine Learning](https://www.coursera.org/course/predmachlearn) (2014-06-02， Jeff Leek)
+- DS09-DDP_0602： [Developing Data Products](Https://www.coursera.org/course/devdataprod) (2014-06-02, Brian Caffo)
